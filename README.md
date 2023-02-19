@@ -11,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=Smitkhobragade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Smitkhobragade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitkhobragade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+<br/>
+<a href="https://github.com/Smitkhobragade/github-readme-activity-graph"><img alt="Smit Khobragade's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Smitkhobragade&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+![](./profile-3d-contrib/profile-night-view.svg)
 
 
 ### ✍️ Random Dev Quote

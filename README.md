@@ -20,7 +20,8 @@
 <br/>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
+## Holopin Badges
+[![An image of @smitkhobragade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smitkhobragade)](https://holopin.io/@smitkhobragade)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

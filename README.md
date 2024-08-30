@@ -1,5 +1,22 @@
+  <h1 style="font-family: 'Arial', sans-serif; 
+           background: linear-gradient(to right, #4A90E2, #E94E77);
+           -webkit-background-clip: text;
+           color: transparent;
+           text-align: center;">
+    Hi, I'm <span style="font-weight: bold; background: linear-gradient(to right, #E94E77, #F8B500);
+           -webkit-background-clip: text;
+           color: transparent;">Smit Khobragade</span> 👋
+</h1>
+
+
 # 💫 About Me:
-🔭 I’m currently working on Front-end Web Technologies<br>👯 I’m looking to collaborate on where I could Help<br>🤝 I’m looking for help with Designs in websites<br>🌱 I’m currently learning React.js and C++<br>💬 Ask me about Anything in CSS<br>⚡ Fun fact I am always ready to learn and use new tech
+🔭 Diving Deep into: Front-end Web Technologies, crafting seamless user experiences. <br>
+👯 Collaboration Goals: Looking to join forces on impactful projects and make a difference through shared expertise. <br>
+🤝 Design Enthusiast: Eager to team up with creative minds to bring beautiful web designs to life. <br>
+🌱 Currently Mastering: The power of React.js and the intricacies of C++. <br>
+💬 CSS Guru: Got a CSS puzzle? Let’s solve it together! <br>
+⚡ Open Source Advocate: Passionate about contributing to the open-source community and driving innovation. <br>
+🔥 Tech Enthusiast: Always exploring the latest tech trends and tools—because learning is a lifelong adventure! <br>
 
 
 ## 🌐 Socials:

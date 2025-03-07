@@ -21,6 +21,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smit_kbgd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smit-khobragade-860925236) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smitkbgd) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Smit_kbgd16) 
+![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-6K%2B%20Followers-blue?style=flat&logo=linkedin)
 
 
 # 💻 Tech Stack:
